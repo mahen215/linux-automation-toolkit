@@ -1,0 +1,8 @@
+Docker Container Report
+Generated on: Sun Jun 28 13:08:24 IST 2026
+=========================================
+Name: wonderful_mclean
+Image: ec4ed8b5299e
+Status: Up 54 seconds
+Ports: 0.0.0.0:80->80/tcp, [::]:80->80/tcp
+----------------------------------------
